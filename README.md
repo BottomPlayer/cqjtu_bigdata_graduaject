@@ -1,0 +1,2 @@
+# cqjtu_bigdata_graduaject
+大学毕业设计，基于YOLOv5的机车撒砂目标检测算法研究
