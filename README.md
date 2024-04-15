@@ -1,2 +1,2 @@
-# cqjtu_bigdata_graduaject
+# 重庆交通大学大数据专业的毕业设计
 大学毕业设计，基于YOLOv5的机车撒砂目标检测算法研究
