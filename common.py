@@ -173,3 +173,5 @@ class ECA(nn.Module):
         y = self.sigmoid(y)
 
         return x * y.expand_as(x)
+
+
